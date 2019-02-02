@@ -1,0 +1,6 @@
+Complete working example. 
+
+To run, type on command line:
+
+chmod +x run.sh
+./run.sh
